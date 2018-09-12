@@ -7,7 +7,10 @@ class Game extends Component{
         <div className="jumbotron">
           <h1>Clicky Game!</h1>
           <h2>Click on an image to earn points, but don't click any more than once</h2>
-        </div>   
+        </div>
+        <main className="container">
+          
+        </main>   
       </div> 
     )
   }
